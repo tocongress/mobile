@@ -5,8 +5,9 @@
 
 html{
     background-repeat: no-repeat;
+    background-position: left-bottom;
     background-image: url("https://www.walldevil.com/wallpapers/a44/web-background-isheepz-writing-templates-writer3a-images.jpg");
-    background-position: right-bottom;
+    background-size: 100%;
     height: 100%;
 }
 
@@ -34,7 +35,6 @@ html{
     margin-top: -20px;
     font-size: 400%;
     text-align: center;
-    font-style: white;
 }
 
 .furdes1{
